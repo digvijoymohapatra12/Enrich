@@ -234,6 +234,7 @@ window.matchMedia = window.matchMedia || (function(doc, undefined){
 			else {
 				lastCall	= now;
 			}
+
 										
 			for( var i in mediastyles ){
 				var thisstyle = mediastyles[ i ],
